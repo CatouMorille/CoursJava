@@ -2,6 +2,5 @@
 
 Test de texte
 
-Changement 
-Mais qu'est-ce que ?? 
+Changement minimum test de pastille. Je pense avoir compris !
 
